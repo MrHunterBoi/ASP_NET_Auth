@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Stuff\\Work\\IT\\IKNI5SEM\\PIS\\ASP_NET_Auth\\ASP API.csproj": {}
+    "C:\\Users\\olegm\\Desktop\\IKNI\\3 year\\PIS\\lab6\\ASP API.csproj": {}
   },
   "projects": {
-    "D:\\Stuff\\Work\\IT\\IKNI5SEM\\PIS\\ASP_NET_Auth\\ASP API.csproj": {
+    "C:\\Users\\olegm\\Desktop\\IKNI\\3 year\\PIS\\lab6\\ASP API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Stuff\\Work\\IT\\IKNI5SEM\\PIS\\ASP_NET_Auth\\ASP API.csproj",
+        "projectUniqueName": "C:\\Users\\olegm\\Desktop\\IKNI\\3 year\\PIS\\lab6\\ASP API.csproj",
         "projectName": "ASP API",
-        "projectPath": "D:\\Stuff\\Work\\IT\\IKNI5SEM\\PIS\\ASP_NET_Auth\\ASP API.csproj",
-        "packagesPath": "C:\\Users\\maksi\\.nuget\\packages\\",
-        "outputPath": "D:\\Stuff\\Work\\IT\\IKNI5SEM\\PIS\\ASP_NET_Auth\\obj\\",
+        "projectPath": "C:\\Users\\olegm\\Desktop\\IKNI\\3 year\\PIS\\lab6\\ASP API.csproj",
+        "packagesPath": "C:\\Users\\olegm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\olegm\\Desktop\\IKNI\\3 year\\PIS\\lab6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\maksi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\olegm\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

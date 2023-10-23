@@ -16,5 +16,6 @@ namespace ASP_API
         public DbSet<Patient> Patient { get; set; }
         public DbSet<Staff> Staff { get; set; }
         public DbSet<Proced> Proced { get; set; }
+        public DbSet<Users> Users { get; set; }
     }
 }
